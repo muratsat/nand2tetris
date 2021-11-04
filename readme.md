@@ -18,3 +18,6 @@ In the unit 2 I learned how negative number represented in binary, and it blew m
 I also learned how to implement number addition in binary using logic gates in the previous unit. 
 
 I am very excited to start the unit 3.
+
+## Week three
+In unit 3 I learned how computers can memorize data and found out how RAM works.
