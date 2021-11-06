@@ -21,3 +21,8 @@ I am very excited to start the unit 3.
 
 ## Week three
 In unit 3 I learned how computers can memorize data and found out how RAM works.
+
+## Week four
+In this unit I didn't have to deal with hardware directly. I wrote the machine language code to operate with RAM instead.
+
+In the programming assignment I implemented multiplication and worked with input/output.
